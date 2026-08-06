@@ -214,3 +214,9 @@ VGG16_PROJECT/data_split
 models/
 *.pth
 *.pt
+
+static/
+static/slideshow/
+
+feedback/
+feedback/images/
